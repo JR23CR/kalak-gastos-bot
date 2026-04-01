@@ -1,4 +1,2 @@
-credenciales.json
-.env
 __pycache__/
-*.pyc
+.env
